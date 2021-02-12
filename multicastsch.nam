@@ -1,0 +1,190 @@
+n -t * -s 0  -x 485.52529900000002 -y 12.719421000000001 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 1  -x 522.21820100000002 -y 0 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 2  -x 562.02062999999998 -y -5.6574669999999996 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 3  -x 599.34362799999997 -y -1.983274 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 4  -x 639.53118900000004 -y -1.4738929999999999 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 5  -x 679.70538299999998 -y 13.536232999999999 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 6  -x 578.09277299999997 -y 300.21606400000002 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 7  -x 500.09277300000002 -y 400.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 8  -x 485.215576 -y 140.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 9  -x 650.21557600000006 -y 140.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 10  -x 685.21557600000006 -y 140.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 11  -x 750.21557600000006 -y 140.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 12  -x 850.21557600000006 -y 140.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 13  -x 350.215576 -y 140.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 14  -x 450.215576 -y 140.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 15  -x 550.21557600000006 -y 140.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 16  -x 600.21557600000006 -y 140.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 17  -x 578.09277299999997 -y 140.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 18  -x 578.09277299999997 -y 740.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 19  -x 300.215576 -y 140.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 20  -x 578.09277299999997 -y 640.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 21  -x 678.09277299999997 -y 300.21606400000002 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 22  -x 100 -y 300.21606400000002 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 23  -x 200 -y 300.21606400000002 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 24  -x 300 -y 300.21606400000002 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 25  -x 400 -y 300.21606400000002 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 26  -x 500 -y 300.21606400000002 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 27  -x 1000 -y 300.21606400000002 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 28  -x 800 -y 300.21606400000002 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 29  -x 900 -y 300.21606400000002 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 30  -x 618.09277299999997 -y 740.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 31  -x 538.09277299999997 -y 740.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 32  -x 578.09277299999997 -y 700.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 33  -x 618.09277299999997 -y 700.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 34  -x 538.09277299999997 -y 700.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 35  -x 100 -y 200.21606399999999 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 36  -x 200 -y 200.21606399999999 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 37  -x 300 -y 200.21606399999999 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 38  -x 400 -y 200.21606399999999 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 39  -x 500 -y 200.21606399999999 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 40  -x 1000 -y 200.21606399999999 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 41  -x 800 -y 200.21606399999999 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 42  -x 900 -y 200.21606399999999 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 43  -x 600 -y 200.21606399999999 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 44  -x 700 -y 200.21606399999999 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 45  -x 928.09277299999997 -y 400.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 46  -x 300 -y 400.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 47  -x 700 -y 400.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 48  -x 350 -y 500.731674 -Z 0 -z 10.000000  -v circle -c green
+n -t * -s 49  -x 800 -y 500.731674 -Z 0 -z 10.000000  -v circle -c green
+V -t * -v 1.0a5 -a 0
+W -t * -x 1000 -y 1000
+A -t * -n 1 -p 0 -o 0xffffffff -c 31 -a 1
+A -t * -h 1 -m 2147483647 -s 0
+n -t 0 -s 0 -S DLABEL -l "Mobile_Node" -L ""
+n -t 0 -s 0 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 1 -S DLABEL -l "Mobile_Node" -L ""
+n -t 0 -s 1 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 2 -S DLABEL -l "Mobile_Node" -L ""
+n -t 0 -s 2 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 3 -S DLABEL -l "Mobile_Node" -L ""
+n -t 0 -s 3 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 4 -S DLABEL -l "Mobile_Node" -L ""
+n -t 0 -s 4 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 5 -S DLABEL -l "Mobile_Node" -L ""
+n -t 0 -s 5 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 6 -S DLABEL -l "Clusterhead" -L ""
+n -t 0 -s 6 -S COLOR -c pink -o black -i pink -I black
+n -t 0 -s 7 -S COLOR -c blue -o black -i blue -I black
+n -t 0 -s 8 -S DLABEL -l "Node" -L ""
+n -t 0 -s 8 -S COLOR -c gold -o black -i gold -I black
+n -t 0 -s 9 -S DLABEL -l "Node" -L ""
+n -t 0 -s 9 -S COLOR -c gold -o black -i gold -I black
+n -t 0 -s 10 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 11 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 12 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 13 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 14 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 15 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 16 -S COLOR -c pink -o black -i pink -I black
+n -t 0 -s 17 -S COLOR -c blue -o black -i blue -I black
+n -t 0 -s 18 -S COLOR -c gold -o black -i gold -I black
+n -t 0 -s 19 -S COLOR -c gold -o black -i gold -I black
+n -t 0 -s 46 -S DLABEL -l "Access_Service_Network" -L ""
+n -t 0 -s 7 -S DLABEL -l "Access_Service_Network" -L ""
+n -t 0 -s 47 -S DLABEL -l "Access_Service_Network" -L ""
+n -t 0 -s 45 -S DLABEL -l "Access_Service_Network" -L ""
+n -t 0 -s 30 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 31 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 32 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 43 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 44 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 45 -S COLOR -c RED -o black -i RED -I black
+n -t 0 -s 46 -S COLOR -c pink -o black -i pink -I black
+n -t 0 -s 47 -S COLOR -c blue -o black -i blue -I black
+n -t 0 -s 38 -S COLOR -c gold -o black -i gold -I black
+n -t 0 -s 29 -S COLOR -c gold -o black -i gold -I black
+n -t 1.000000 -s 8 -x 485.215576 -y 140.731674 -U 29.765356 -V -3.744806 -T 5.536115
+n -t 1.000000 -s 9 -x 650.215576 -y 140.731674 -U -29.766565 -V -3.735185 -T 5.550374
+n -t 1 -s 0 -S COLOR -c green -o RED -i green -I RED
++ -t 1.000000000 -s 0 -d -1 -p tcp -e 40 -c 2 -a 0 -i 0 -k AGT 
+- -t 1.000000000 -s 0 -d -1 -p tcp -e 40 -c 2 -a 0 -i 0 -k AGT
+h -t 1.000000000 -s 0 -d -1 -p tcp -e 40 -c 2 -a 0 -i 0 -k AGT
+d -t 1.000025000 -s 0 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+n -t 1.5 -s 3 -S COLOR -c green -o RED -i green -I RED
++ -t 1.500000000 -s 3 -d -1 -p tcp -e 40 -c 2 -a 0 -i 1 -k AGT 
+- -t 1.500000000 -s 3 -d -1 -p tcp -e 40 -c 2 -a 0 -i 1 -k AGT
+h -t 1.500000000 -s 3 -d -1 -p tcp -e 40 -c 2 -a 0 -i 1 -k AGT
+d -t 1.500025000 -s 3 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+n -t 2 -s 1 -S COLOR -c green -o RED -i green -I RED
+n -t 2 -s 2 -S COLOR -c green -o RED -i green -I RED
+n -t 2 -s 3 -S COLOR -c RED -o green -i RED -I green
++ -t 2.000000000 -s 1 -d -1 -p tcp -e 40 -c 2 -a 0 -i 2 -k AGT 
+- -t 2.000000000 -s 1 -d -1 -p tcp -e 40 -c 2 -a 0 -i 2 -k AGT
+h -t 2.000000000 -s 1 -d -1 -p tcp -e 40 -c 2 -a 0 -i 2 -k AGT
++ -t 2.000000000 -s 2 -d -1 -p tcp -e 40 -c 2 -a 0 -i 3 -k AGT 
+- -t 2.000000000 -s 2 -d -1 -p tcp -e 40 -c 2 -a 0 -i 3 -k AGT
+h -t 2.000000000 -s 2 -d -1 -p tcp -e 40 -c 2 -a 0 -i 3 -k AGT
+d -t 2.000025000 -s 1 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+d -t 2.000025000 -s 2 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+n -t 2.5 -s 4 -S COLOR -c green -o RED -i green -I RED
++ -t 2.500000000 -s 4 -d -1 -p tcp -e 40 -c 2 -a 0 -i 4 -k AGT 
+- -t 2.500000000 -s 4 -d -1 -p tcp -e 40 -c 2 -a 0 -i 4 -k AGT
+h -t 2.500000000 -s 4 -d -1 -p tcp -e 40 -c 2 -a 0 -i 4 -k AGT
+d -t 2.500025000 -s 4 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+n -t 3 -s 0 -S COLOR -c RED -o green -i RED -I green
+n -t 3 -s 4 -S COLOR -c RED -o green -i RED -I green
+d -t 3.000025000 -s 0 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+d -t 3.500025000 -s 3 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+n -t 4 -s 1 -S COLOR -c RED -o green -i RED -I green
+n -t 4 -s 5 -S COLOR -c green -o RED -i green -I RED
++ -t 4.000000000 -s 5 -d -1 -p tcp -e 40 -c 2 -a 0 -i 5 -k AGT 
+- -t 4.000000000 -s 5 -d -1 -p tcp -e 40 -c 2 -a 0 -i 5 -k AGT
+h -t 4.000000000 -s 5 -d -1 -p tcp -e 40 -c 2 -a 0 -i 5 -k AGT
+d -t 4.000025000 -s 5 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+d -t 4.000025000 -s 1 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+d -t 4.000025000 -s 2 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+d -t 4.500025000 -s 4 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+n -t 5 -s 2 -S COLOR -c RED -o green -i RED -I green
+n -t 5 -s 5 -S COLOR -c RED -o green -i RED -I green
+n -t 5 -s 0 -S COLOR -c green -o RED -i green -I RED
+n -t 6.000025000 -s 5 -S COLOR -c yellow -o green
+d -t 6.000025000 -s 5 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+n -t 6.5 -s 4 -S COLOR -c green -o RED -i green -I RED
+n -t 7 -s 2 -S COLOR -c green -o RED -i green -I RED
++ -t 7.000000000 -s 0 -d -1 -p tcp -e 40 -c 2 -a 0 -i 6 -k AGT 
+- -t 7.000000000 -s 0 -d -1 -p tcp -e 40 -c 2 -a 0 -i 6 -k AGT
+n -t 7.000000000 -s 0 -S COLOR -c yellow -o green
+h -t 7.000000000 -s 0 -d -1 -p tcp -e 40 -c 2 -a 0 -i 6 -k AGT
+n -t 7.000025000 -s 0 -S COLOR -c yellow -o green
+d -t 7.000025000 -s 0 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+n -t 7.500025000 -s 3 -S COLOR -c yellow -o green
+d -t 7.500025000 -s 3 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+n -t 8 -s 1 -S COLOR -c green -o RED -i green -I RED
+n -t 8 -s 3 -S COLOR -c green -o RED -i green -I RED
++ -t 8.000000000 -s 3 -d -1 -p tcp -e 40 -c 2 -a 0 -i 7 -k AGT 
+- -t 8.000000000 -s 3 -d -1 -p tcp -e 40 -c 2 -a 0 -i 7 -k AGT
+n -t 8.000000000 -s 3 -S COLOR -c yellow -o green
+h -t 8.000000000 -s 3 -d -1 -p tcp -e 40 -c 2 -a 0 -i 7 -k AGT
++ -t 8.000000000 -s 1 -d -1 -p tcp -e 40 -c 2 -a 0 -i 8 -k AGT 
+- -t 8.000000000 -s 1 -d -1 -p tcp -e 40 -c 2 -a 0 -i 8 -k AGT
+n -t 8.000000000 -s 1 -S COLOR -c yellow -o green
+h -t 8.000000000 -s 1 -d -1 -p tcp -e 40 -c 2 -a 0 -i 8 -k AGT
++ -t 8.000000000 -s 2 -d -1 -p tcp -e 40 -c 2 -a 0 -i 9 -k AGT 
+- -t 8.000000000 -s 2 -d -1 -p tcp -e 40 -c 2 -a 0 -i 9 -k AGT
+n -t 8.000000000 -s 2 -S COLOR -c yellow -o green
+h -t 8.000000000 -s 2 -d -1 -p tcp -e 40 -c 2 -a 0 -i 9 -k AGT
+n -t 8.000025000 -s 1 -S COLOR -c yellow -o green
+d -t 8.000025000 -s 1 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+n -t 8.000025000 -s 2 -S COLOR -c yellow -o green
+d -t 8.000025000 -s 2 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
++ -t 8.500000000 -s 4 -d -1 -p tcp -e 40 -c 2 -a 0 -i 10 -k AGT 
+- -t 8.500000000 -s 4 -d -1 -p tcp -e 40 -c 2 -a 0 -i 10 -k AGT
+n -t 8.500000000 -s 4 -S COLOR -c yellow -o green
+h -t 8.500000000 -s 4 -d -1 -p tcp -e 40 -c 2 -a 0 -i 10 -k AGT
+n -t 8.500025000 -s 4 -S COLOR -c yellow -o green
+d -t 8.500025000 -s 4 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+n -t 9 -s 0 -S COLOR -c RED -o green -i RED -I green
+n -t 9 -s 5 -S COLOR -c green -o RED -i green -I RED
+n -t 9.5 -s 4 -S COLOR -c RED -o green -i RED -I green
+n -t 10 -s 3 -S COLOR -c RED -o green -i RED -I green
++ -t 10.000000000 -s 5 -d -1 -p tcp -e 40 -c 2 -a 0 -i 11 -k AGT 
+- -t 10.000000000 -s 5 -d -1 -p tcp -e 40 -c 2 -a 0 -i 11 -k AGT
+n -t 10.000000000 -s 5 -S COLOR -c red -o yellow
+h -t 10.000000000 -s 5 -d -1 -p tcp -e 40 -c 2 -a 0 -i 11 -k AGT
+n -t 10.000025000 -s 5 -S COLOR -c red -o yellow
+d -t 10.000025000 -s 5 -d -1 -p AODV -e 48 -c 2 -a 0 -i 0 -k MAC
+n -t 12 -s 1 -S COLOR -c RED -o green -i RED -I green
+n -t 13 -s 2 -S COLOR -c RED -o green -i RED -I green
+n -t 14 -s 5 -S COLOR -c RED -o green -i RED -I green
